@@ -1,0 +1,24 @@
+{
+  "name": "projetosprogramacaoparainternet",
+  "version": "1.0.0",
+  "description": "Exercicio pra entrega 01",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gmiyashita/ProjetosProgramacaoparaInternet.git"
+  },
+  "author": "Guilherme Takazono Miyashita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gmiyashita/ProjetosProgramacaoparaInternet/issues"
+  },
+  "homepage": "https://github.com/Gmiyashita/ProjetosProgramacaoparaInternet#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
